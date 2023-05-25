@@ -35,7 +35,7 @@ html {
 
   /* Changing nav colors to white and adding hovering color change to blue */
   .navLink:hover {
-    color: blue;
+    color: rgb(0, 0, 255);
   }
   
   .navLink {
